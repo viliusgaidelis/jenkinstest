@@ -1,1 +1,1 @@
-echo Cia mano projektas GIT platformoje. Padarytas commit.
+echo Cia mano projektas GIT platformoje. Padarytas commit. Padarytas dar commit
